@@ -3,8 +3,8 @@ import java.util.Locale;
 
 public class Main {
     public static void main(String[] args) {
-        try (Scanner teclado = new Scanner(System.in)) {
-            teclado.useLocale(Locale.US);
+            try (Scanner teclado = new Scanner(System.in)) {
+                teclado.useLocale(Locale.US);
 
             int qunt = 0;
 
