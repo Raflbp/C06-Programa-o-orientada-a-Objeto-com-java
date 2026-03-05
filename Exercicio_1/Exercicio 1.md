@@ -78,4 +78,4 @@ O **JDK** é um kit completo para **desenvolvedores**. O que significa que tudo 
 #### QUESTÃO 10
 
 
-[Ir para a Atividade 10](/Atividade_10/src/Main.java)
+[Ir para a Atividade 10](/Exercicio_1/Atividade_10/src/Main.java)
